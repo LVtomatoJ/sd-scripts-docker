@@ -137,4 +137,4 @@ EOT
 
 EOF
 
-ENTRYPOINT [ "gosu", "user", "accelerate", "launch" ]
+
